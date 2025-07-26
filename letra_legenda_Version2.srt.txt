@@ -1,4 +1,4 @@
-1
+1 corrigir erro
 00:00:01,000 --> 00:00:08,000
 A arma na mão do valente
 Desperta o pior do humano
